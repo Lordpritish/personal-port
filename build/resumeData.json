@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Pritish Panda",
+    "occupation": "Software Developer ",
+    "description": "If you want a friendly and smart person, then it's me",
+    "image": "profilepic.jpg",
+    "bio": "An innovative and ingenious third-year student at the University of Toronto Scarborough, specializing in Computer Science-Software Engineering Stream who loves developing applications that focus on human interactions and interest. Capable of working on challenging problems and develop analytics using critical thinking.",
+    "contactmessage": "Questions? Comments? Just fill out the information listed, and I will respond as soon as possible. Thanks!",
+    "email": "pritishstudies@gmail.com",
+    "phone": "437 221 9334",
+    "address": {
+      "street": "Scarborough",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M1C 1E4"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1bb1zkCjBpV4Iwdhly8FzlHjcMwWuDUMT/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pritish-panda/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pritish_9.11/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lordpritish",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "University of Toronto",
+        "degree": "Honours Bachelor of Science, Co-op Specialist: Computer Science and Mathematics",
+        "graduated": "Sep 2024"
+      },
+      {
+        "school": "Hiranandani Foundation School",
+        "degree": "IBDP",
+        "graduated": "May 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "Thales",
+        "title": "Sofware Tool Developer",
+        "years": "Jan 2022 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Live Competition",
+        "title": "Back-end Developer",
+        "years": "Apr 2022 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Hack the Valley",
+        "title": "Web-Developer",
+        "years": "Apr 2022 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Insight",
+        "category": "Conceptualized and developed a web application that helps user's who are socially inactive.",
+        "image": "Insight.jpg",
+        "url": "https://devpost.com/software/insight-9x87v2"
+      },
+      {
+        "title": "Growth",
+        "category": "Implemented a website using Django that will help communities interact and learn from one another, as well as provide E-Learning facilities.",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://github.com/UTSCCSCC01/project-growth"
+      },
+      {
+        "title": "Zoomer",
+        "category": "Created an application with a microservices architecture, containing three microservices (backend Java APIs) with an accompanying API Gateway.",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/UTSCCSCC01/a2s21-Mahabharat"
+      },
+      {
+        "title": "Plasma Share",
+        "category": "Developed a plasma donation app that allows Covid-19 patients to find verified and eligible plasma donors for successful recovery in a span of 2 days.",
+        "image": "PlasmaShare.jpg",
+        "url": "https://devpost.com/software/shareplasma"
+      },
+      {
+        "title": "Detect Neurological problems",
+        "category": "Had an Accident? Bumped your head Somewhere? Take this test to detect early on if you have Dementia.",
+        "image": "Detect-Neurological-problems.jpg",
+        "url": "https://devpost.com/software/detect-neurological-problems"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is full of Enthusiasm",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Pritish Panda must be one of the most brilliant developers I've ever met!Hey you, you should hire this guy, he may be fresh out of University but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak"
+      }
+    ]
+  }
+}
